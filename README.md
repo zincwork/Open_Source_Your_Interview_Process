@@ -10,43 +10,43 @@ The seven processes listed are for developer roles in leading web3 organisations
 
 Let's open source interviewing :raised_hands:
 
-**Aragon’s process**
+**1. Aragon’s process**
 
 Submit Application > Phone Interview > Tech Test > Meet the team > Offer > Trial
 
 *Success stats: Truly globally remote, no offices. 21 people work across Aragon’s teams, 20/30 outside contributors at once. Aragon’s privacy preserving interview techniques, like IM interviews are commendable: https://wiki.aragon.org/jobs/*
 
-**Blockstack’s process**
+**2. Blockstack’s process**
 
 Submit Application > Phone Interview > Technical Phone Interview > Video/On-site interview > Referencing > Offer
 
 *Success stats: Globally remote, distributed across Hong Kong, Gambia, Barcelona, Toronto, and Seattle. 30 core team members + open source contributors. Flexible process & powerful values (voted for by the team): https://blockstack.org/careers*
 
-**Blockchain.com’s process**
+**3. Blockchain.com’s process**
 
 Submit Application > Phone Interview > Code Review > Video Call > On-site Interview > References > Offer
 
 *Success stats: Distributed across UK, SF & New York. Scaled to over 150 in the past year. Bonus points for the nicest interview graphic. Unlimited PTO, flexible schedules and crypto bonuses: https://www.blockchain.com/careers*
 
-**Bitpesa’s process**
+**4. Bitpesa’s process**
 
 Submit Application > Phone Interview > Technical Phone Interview > Phone Interview > Offer
 
 *Success stats: Globally remote, offices in Lagos, London, Luxembourg, Madrid, and Dakar. Over 60 people globally, challenging hiring in emerging markets: https://www.bitpesa.co/careers/*
 
-**Bitfinex’s process**
+**5. Bitfinex’s process**
 
 Submit Application > Phone Interview > Tech Test > On-site meet & test> Offer
 
 *Success stats: Truly globally remote, distributed across Asia, Europe & Americas. Culture of Learning offsite’s and team building, flexible hours: https://www.bitfinex.com/careers*
 
-**Status’s process**
+**6. Status’s process**
 
 Submit Application > Phone Interview > Trial > Offer
 
 *Success stats: Truly globally remote, no offices. Scaled to 100+ people in the last year. Will pay in SNT or local fiat. Extremely flexible, no set interview process & serious about privacy: https://status.im/contribute/applicant_privacy.html*
 
-**Zeppelin’s process**
+**7. Zeppelin’s process**
 
 Submit Application > Phone Interview > Technical Phone Interview > References > Paid Work Test > Final Phone > Offer
 
