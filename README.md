@@ -6,7 +6,9 @@ Here are the steps to take part:
 - Open an issue and share the stages of your interview process. Optionally add what your companies hiring achievements 
 - Make a pull request if you wish to share interviewing material; tests, interview questions, on-boarding resources ~ anything worth sharing :+1:
 
-The seven processes listed are for developer roles in leading web3 organisations, so let's try to stick to developer roles. Here's some analysis: https://medium.com/zinc_work/perfecting-your-interview-process-for-building-remote-teams-581bca1ba62d
+The seven processes listed are for developer roles in leading distributed web3 organisations. Here's some analysis: https://medium.com/zinc_work/perfecting-your-interview-process-for-building-remote-teams-581bca1ba62d
+
+But it doesn't matter if you're distriubuted or in Web3. If you're a tech company or just hire for tech roles go ahead and share your process.
 
 Let's open source interviewing :raised_hands:
 
