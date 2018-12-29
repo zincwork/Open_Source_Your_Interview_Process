@@ -20,9 +20,9 @@ Submit Application > Phone Interview > Tech Test > Meet the team > Offer > Trial
 
 **2. Blockstack’s process**
 
-Submit Application > Phone Interview > Technical Phone Interview > Video/On-site interview > Referencing > Offer
+Submit Application > Phone Interview > Technical Exercise > Video/On-site interview > Referencing > Offer
 
-*Success stats: Globally remote, distributed across Hong Kong, Gambia, Barcelona, Toronto, and Seattle. 30 core team members + open source contributors. Flexible process & powerful values (voted for by the team): https://blockstack.org/careers*
+*Success stats: Globally remote, distributed across Hong Kong, Gambia, Barcelona, Toronto, and Seattle. 24 core team members + open source contributors. Flexible process & powerful values (voted for by the team): https://blockstack.org/careers*
 
 **3. Blockchain.com’s process**
 
@@ -38,7 +38,7 @@ Submit Application > Phone Interview > Technical Phone Interview > Phone Intervi
 
 **5. Bitfinex’s process**
 
-Submit Application > Phone Interview > Tech Test > On-site meet & test> Offer
+Submit Application > Phone Interview > Tech Test > Possible 2nd Tech Test > Offer
 
 *Success stats: Truly globally remote, distributed across Asia, Europe & Americas. Culture of Learning offsite’s and team building, flexible hours: https://www.bitfinex.com/careers*
 
